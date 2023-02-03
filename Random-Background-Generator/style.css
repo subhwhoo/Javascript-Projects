@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #222;
+    height: 100vh;
+    position: relative;
+}
+button{
+    font-size:14px;
+    padding:15px 30px;
+    border-radius: 50px;
+    background-color: green;;
+    border: 5px solid #fff;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    cursor: pointer;
+    outline: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.screen{
+    display: grid;   
+    grid-template-columns: 1fr 1fr ;
+    height: 100vh;
+
+}
+.part{
+    background-color: black;
+}
