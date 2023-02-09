@@ -13,7 +13,7 @@ body{
 }
 
 .calculator{
-    width:25%;
+    width:375px;
     border-radius: 10px;
     overflow: hidden;
     text-align: right;
