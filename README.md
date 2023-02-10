@@ -8,4 +8,5 @@
 5. Random Background Generator - <a href="https://randomcg.netlify.app">Click to Visit</a>
 6. Currency Converter - <a href="https://currconvert.netlify.app">Click to Visit</a>
 7. Calculator 1 - <a href="https://calci1.netlify.app">Click to Visit</a>
-8. Calculator 2 - <a href="https://calci2.netlify.app">Click to Visit</a>
+8. Calculator 1 - <a href="https://calci1.netlify.app">Click to Visit</a>
+9. Clock - <a href="https://calci2.netlify.app">Click to Visit</a>

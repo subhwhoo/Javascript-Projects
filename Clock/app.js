@@ -2,8 +2,6 @@ const hourEl = document.querySelector('.hour');
 const minuteEl = document.querySelector('.minute');
 const secondEl = document.querySelector('.second');
 
-console.log(hourEl, minuteEl, secondEl);
-
 function updateClock(){
     const currentDate = new Date()
     const hours = currentDate.getHours()
