@@ -9,4 +9,4 @@
 6. Currency Converter - <a href="https://currconvert.netlify.app">Click to Visit</a>
 7. Calculator 1 - <a href="https://calci1.netlify.app">Click to Visit</a>
 8. Calculator 1 - <a href="https://calci1.netlify.app">Click to Visit</a>
-9. Clock - <a href="https://calci2.netlify.app">Click to Visit</a>
+9. Clock - <a href="https://clo1.netlify.app">Click to Visit</a>
