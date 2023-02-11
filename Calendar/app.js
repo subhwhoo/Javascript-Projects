@@ -5,7 +5,7 @@ const daysEl = document.querySelector(".days");
 const timeEl = document.querySelector(".time");
 
 function updateClock() {
-  timeEl.innerText = new Date().toLocaleTimeString();
+  timeEl.innerText = new Date().toTimeString();
 }
 setInterval(updateClock, 1000);
 
