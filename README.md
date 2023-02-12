@@ -12,3 +12,4 @@
 9. Clock - <a href="https://clo1.netlify.app">Click to Visit</a>
 10. Calendar - <a href="https://calen1.netlify.app">Click to Visit</a>
 11. Mouse Event - <a href="https://mousee1.netlify.app">Click to Visit</a>
+12. Progress Bar - <a href="https://lb1.netlify.app">Click to Visit</a>
