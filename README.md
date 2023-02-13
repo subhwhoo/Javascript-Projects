@@ -14,3 +14,4 @@
 11. Mouse Event - <a href="https://mousee1.netlify.app">Click to Visit</a>
 12. Progress Bar - <a href="https://lb1.netlify.app">Click to Visit</a>
 13. Testimonial Slider - <a href="https://testimonialslider1.netlify.app">Click to Visit</a>
+14. Mini Calendar - <a href="https://minical1.netlify.app">Click to Visit</a>
